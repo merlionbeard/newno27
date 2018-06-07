@@ -1,2 +1,4 @@
 name: No. 27 Bistro and Bar
 markdown: kramdown
+sass:
+    style: compresssed
